@@ -1,0 +1,88 @@
+{
+  "medals": [
+    {
+      "id": 1,
+      "title": "longest_run",
+      "image" : "longest_run",
+      "recordTime": "00:00",
+      "categoryType": "Personal Records"
+    },
+    {
+      "id": 2,
+      "title": "highest_elevation",
+      "image" : "highest_elevation",
+      "recordTime": "2095t",
+      "categoryType": "Personal Records"
+    },
+    {
+      "id": 3,
+      "title": "Fastest 5K",
+      "image" : "fastest_5k",
+      "recordTime": "00:00",
+      "categoryType": "Personal Records"
+    },
+    {
+      "id": 4,
+      "title": "10 K",
+      "image" : "fastest_10k",
+      "recordTime": "00:00:00",
+      "categoryType": "Personal Records"
+    },
+    {
+      "id": 5,
+      "title": "Half Marathon",
+      "image" : "fastest_half_marathon",
+      "recordTime": "00:00",
+      "categoryType": "Personal Records"
+    },
+    {
+      "id": 6,
+      "title": "Marathon",
+      "image" : "fastest_marathon",
+      "recordTime": "Not Yet",
+      "categoryType": "Personal Records"
+    },
+    {
+     "id": 7,
+     "title": "Virtual Half Marathon Race",
+     "image" : "virtual_half_marathon_race",
+    "recordTime": "00:00",
+    "categoryType": "Virtual Races"
+    },
+    {
+     "id": 8,
+     "title": "Tokyo Kakone Ekiden",
+     "image" : "tokyo_kakone_ekiden",
+    "recordTime": "00:00:00",
+    "categoryType": "Virtual Races"
+    },
+    {
+     "id": 9,
+     "title": "Virtual 10K Race",
+     "image" : "virtual_10k_race",
+     "recordTime": "00:00:00",
+     "categoryType": "Virtual Races"
+    },
+    {
+     "id": 10,
+     "title": "Hakone Ekiden",
+     "image" : "hakone_ekiden",
+     "recordTime": "00:00:00",
+     "categoryType": "Virtual Races"
+    },
+    {
+     "id": 11,
+     "title": "Mizno Singapore Ekiden",
+     "image" : "mizuno_singapore_ekiden",
+     "recordTime": "00:00:00",
+     "categoryType": "Virtual Races"
+    },
+    {
+     "id": 12,
+     "title": "Virtual 5K Race",
+     "image" : "virtual_5k_race",
+     "recordTime": "23:07",
+     "categoryType": "Virtual Races"
+    },
+  ]
+}
