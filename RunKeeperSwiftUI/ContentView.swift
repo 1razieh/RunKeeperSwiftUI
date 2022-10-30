@@ -24,7 +24,7 @@ struct ContentView: View {
 //                        Section(header: Text(medal.categoryType)){
                             
                         
-                        VStack {
+                        VStack(spacing: 2) {
                             Image(medal.image)
                                 .resizable()
                                 .scaledToFit()
